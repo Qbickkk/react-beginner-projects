@@ -2,4 +2,5 @@
 
 <ul>
     <li>Counter</li>
+    <li>Modal</li>
 </ul>
