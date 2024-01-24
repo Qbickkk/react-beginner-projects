@@ -3,4 +3,8 @@
 <ul>
     <li>Counter</li>
 </ul>
-<img src="https://github.com/Qbickkk/react-beginner-projects/assets/96394576/3f2cd735-a804-4405-ae43-2dedd2d80e25" alt="counter"/>
+<img src="https://github.com/Qbickkk/react-beginner-projects/assets/96394576/2473be8d-1644-4bda-8ff0-6411852b0378" alt="counter"/>
+<hr/>
+<ul>
+    <li>Modal</li>
+</ul>
