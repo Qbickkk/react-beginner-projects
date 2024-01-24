@@ -9,4 +9,7 @@
     <li>Modal</li>
 </ul>
 <img src="https://github.com/Qbickkk/react-beginner-projects/assets/96394576/3ea9f815-d1de-464c-80c3-51264a6739ba" alt="modal"/>
-
+<hr/>
+ <li>Quiz</li>
+</ul>
+<img src="https://github.com/Qbickkk/react-beginner-projects/assets/96394576/8f98a3de-cb66-4909-a8df-685449c6f91e" alt="modal"/>
