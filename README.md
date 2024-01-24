@@ -8,5 +8,5 @@
 <ul>
     <li>Modal</li>
 </ul>
-<img src="https://github.com/Qbickkk/react-beginner-projects/assets/96394576/719120c6-e98e-46f5-a874-242a94e3751d" alt="modal"/>
+<img src="https://github.com/Qbickkk/react-beginner-projects/assets/96394576/3ea9f815-d1de-464c-80c3-51264a6739ba" alt="modal"/>
 
